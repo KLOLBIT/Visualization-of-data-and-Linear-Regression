@@ -176,5 +176,3 @@ y = df['Yearly Amount Spent']
 * Build a **web app (Flask/Streamlit)** to input housing features and get price predictions.
 
 ---
-
-Do you want me to also **add code for saving the trained model with `joblib` or `pickle`** so it can be reused without retraining?
